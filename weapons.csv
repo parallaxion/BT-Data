@@ -1,0 +1,307 @@
+,0
+ER Medium Laser,1526
+Medium Laser,1280
+Medium Pulse Laser,852
+Machine Gun,447
+ER Large Laser,435
+ER Small Laser,409
+ISMediumLaser,388
+ER PPC,367
+ISERMediumLaser,361
+SRM 6,277
+Small Laser,260
+ISMediumPulseLaser,234
+LRM 15,232
+Large Pulse Laser,230
+LRM 10,204
+Gauss Rifle,199
+Large Laser,198
+Small Pulse Laser,192
+SRM 4,183
+Flamer,167
+Streak SRM 6,165
+LRM 20,162
+Heavy Medium Laser,141
+Light PPC,140
+LRM 5,134
+AP Gauss Rifle,132
+Streak SRM 2,127
+AMS,119
+PPC,115
+LB 10-X AC,100
+Snub-Nose PPC,95
+ISSmallLaser,93
+Streak SRM 4,92
+ER Micro Laser,90
+ISERLargeLaser,90
+Heavy PPC,84
+ISERPPC,83
+Light Machine Gun,80
+ISGuardianECM,72
+Heavy Large Laser,70
+TAG,69
+Ultra AC/10,67
+Heavy Small Laser,64
+ISSRM6,61
+ISERSmallLaser,59
+ISC3SlaveUnit,59
+Ultra AC/2,57
+SRM 2,55
+ISLRM15,54
+MML 7,53
+Ultra AC/5,51
+Plasma Rifle,50
+ATM 6,50
+ISLRM5,50
+Micro Pulse Laser,47
+ISLBXAC10,47
+Rocket Launcher 10,46
+Particle Cannon,46
+ISImprovedC3CPU,46
+Medium X-Pulse Laser,45
+CLERMediumLaser,45
+Autocannon/10,44
+ATM 9,44
+Rotary AC/5,43
+MML 5,43
+ISLargeLaser,43
+ISPPC,41
+HAG/20,41
+Ultra AC/20,41
+Plasma Cannon,41
+ISStreakSRM2,39
+Light Gauss Rifle,37
+Heavy Machine Gun,37
+ISMachine Gun,37
+ISLightPPC,36
+Improved Heavy Medium Laser,36
+CLMediumPulseLaser,35
+ISGaussRifle,35
+ATM 3,35
+ISLRM10,34
+ISFlamer,34
+LB 20-X AC,33
+C3 Master with TAG,32
+LB 5-X AC,30
+Arrow IV,30
+Autocannon/20,30
+B-Pod,30
+ISSmallPulseLaser,30
+ISStreakSRM4,29
+ISRocketLauncher10,29
+Autocannon/5,29
+ISSRM4,29
+Magshot,26
+Narc,26
+Cargo (1 ton),26
+MML 9,26
+ISLargePulseLaser,25
+ISSNPPC,24
+ISHeavyPPC,24
+ISBeagleActiveProbe,24
+ISAntiMissileSystem,24
+Large X-Pulse Laser,23
+ATM 12,23
+CLHeavyMediumLaser,21
+Light Auto Cannon/5,21
+ISRocketLauncher15,20
+ISRocketLauncher20,20
+ISLRM20,20
+ISTAG,19
+Autocannon/2,18
+ER Medium Pulse Laser,18
+ISStreakSRM6,18
+Rocket Launcher 15,17
+LRT 15,17
+ISRotaryAC5,17
+M-Pod,17
+MRM 10,16
+ISMML5,16
+LRT 5,16
+CLERLargeLaser,15
+Clan TAG,15
+HAG/30,15
+CLERPPC,15
+SRT 4,15
+Light TAG,15
+Light Machine Gun Array,15
+ISUltraAC5,14
+Machine Gun Array,14
+ER Flamer,14
+ISPlasmaRifle,14
+ISLightMG,14
+LB 2-X AC,14
+ISLAC2,13
+MRM 20,13
+Rotary AC/2,13
+ISAC20,13
+MML 3,13
+ISLAC5,12
+ISMML7,12
+Small X-Pulse Laser,12
+ISLBXAC20,12
+Rocket Launcher 20,12
+AC/5,11
+Medium VSP Laser,11
+Laser AMS,11
+MRM 40,11
+CLGaussRifle,11
+SRT 6,11
+CLERSmallLaser,10
+ISAC2,10
+ISMRM20,10
+Heavy Gauss Rifle,10
+Light Auto Cannon/2,10
+ISSRM2,10
+CLLRM20,10
+CLStreakSRM4,10
+HAG/40,10
+Medium VSP,10
+iATM 12,10
+Heavy Machine Gun Array,9
+ER Large Pulse Laser,9
+ISMediumVSPLaser,9
+Improved Heavy Small Laser,9
+MRM 30,9
+CLHeavyLargeLaser,9
+iATM 9,8
+ISNarcBeacon,8
+Rocket Launcher 10 (PP),8
+ISMML9,8
+Enhanced LRM 5,8
+CLLRM15,8
+ISLightGaussRifle,7
+ISLBXAC2,7
+Thunderbolt 15,7
+ISHeavyGaussRifle,7
+Small VSP Laser,7
+CLECMSuite,7
+Lift Hoist,7
+ISC3MasterComputer,7
+ISAC10,7
+CLStreakSRM6,7
+Sword,6
+Large VSP Laser,6
+ISMG,6
+iNarc,6
+CLMG,6
+CLLRM10,6
+ISERFlamer,6
+ISAC5,6
+AC/10,6
+Fluid Gun,6
+ISMRM30,6
+CLPlasmaCannon,6
+ISMediumLaser (R),6
+ISImprovedNarc,6
+CLHeavySmallLaser,6
+CLATM6,6
+CLATM3,6
+Blazer Cannon,6
+AC/2,6
+CLLargePulseLaser,5
+Streak LRM 10,5
+LRT 10,5
+CLRocketLauncher15Prototype,5
+CLSmallPulseLaser,5
+Mech Taser,5
+CLUltraAC10,5
+Extended LRM 15,5
+Thunderbolt 10,5
+Vehicle Flamer,5
+CLSRM6,5
+'Mech Mortar 8,5
+ISMRM10,5
+LAC/5,5
+ISUltraAC10,5
+CLAPGaussRifle,4
+CLMicroPulseLaser,4
+ISMML3,4
+ISMGA,4
+CLAntiPersonnelPod,4
+ISLMGA,4
+CLRocketLauncher20Prototype,4
+Nail Gun,4
+Thunderbolt 20,4
+Improved Heavy Large Laser,4
+ISLBXAC10Prototype,3
+Improved Heavy Gauss Rifle,3
+ProtoMech AC/8,3
+ISLBXAC5,3
+Streak SRM 2 (OS),3
+CLHAG30,3
+CLHAG20,3
+Sniper,3
+Small VSP,3
+ProtoMech AC/4,3
+CLSRM4,3
+Heavy Flamer,3
+ER Large Laser Prototype,3
+ER Small Pulse Laser,3
+Clan Light TAG,3
+Extended LRM 10,3
+ISBPod,3
+iATM 3,3
+AC/20,3
+Large VSP,3
+ISArrowIVSystem,3
+C3 Master Boosted with TAG,3
+CLActiveProbe,2
+ISSmallVSPLaser,2
+CLLBXAC20,2
+CLLBXAC10,2
+CLImprovedHeavyLargeLaser,2
+Chainsaw,2
+ISThunderbolt15,2
+CLAntiMissileSystem,2
+CLLightActiveProbe,2
+SRT 2,2
+CLFlamer,2
+CLERFlamer,2
+ISRotaryAC2,2
+Backhoe,2
+CLBPod,2
+Nail/Rivet Gun,2
+LAC/2,2
+ISEHERPPC,2
+CLMGA,2
+ISLPPC,2
+CLUltraAC20,2
+ISMediumPulseLaser (R),2
+ISMRM40,2
+Streak SRM 4 (OS),2
+ISMediumPulseLaserPrototype,2
+CLATM12,2
+ISMediumXPulseLaser,1
+Taser,1
+CLATM9,1
+Thunderbolt 5,1
+Streak LRM 20,1
+Bombast Laser,1
+ISRemoteSensorDispenser,1
+Retractable Blade,1
+Silver Bullet Gauss Rifle,1
+Mace,1
+ISHeavyFlamer,1
+ISHPPC,1
+ISGaussRiflePrototype,1
+ISFluidGun,1
+ISERSmallLaser (R),1
+ISBlazer,1
+Hyper Velocity Auto Cannon/10,1
+Heavy Rifle,1
+Hatchet,1
+Cargo (0.5 tons),1
+CLStreakSRM6Prototype,1
+SRM 6 (I-OS),1
+CLStreakLRM15,1
+ISSRM4 (OS),1
+CLSRM2,1
+Narc (I-OS),1
+Rock Cutter,1
+CLLightTAG,1
+ISUltraAC20,1
+SRM 2 (OS),1
+ISThunderbolt20,1
+CLHAG40,1
+ISSRT6,1
